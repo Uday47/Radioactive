@@ -52,7 +52,4 @@ Throughout the test, the tool will continuously keep recording the audio and wil
 The tool will detect faces in the webcam feed and if no face is found for a certain time it will give an alert asking the user to return to the screen and if there are multiple faces in the screen then it will again alert the candidate that multiple faces are detected which is not allowed.
 If the candidate tries to switch the tab then he is alerted with a note as well as a notification and an audio.
 
-
-
-
-
+collaborators :  [Abhinav Joel](https://github.com/AbhinavJoel)
